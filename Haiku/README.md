@@ -17,7 +17,8 @@
 10. When I checked the preview it showed as this and I am not understanding why it shows like this. 
 ![Preview](Haiku Preview.PNG) 
 11. I have tried things in chatgpt but it doesn't work.
- ![Gpt 1](GPT 1.PNG)
- ![Gpt 2](GPT 2.PNG)
- ![Gpt 3](GPT 3.PNG) 
+![Gpt 1](GPT 1.PNG)
+![Gpt 2](GPT 2.PNG)
+![Gpt 3](GPT 3.PNG) 
+12. Still could not fix it.. Please help me.
 
